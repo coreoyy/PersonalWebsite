@@ -1,1 +1,1 @@
-#~Old Personal Website~
+#---Old Personal Website---
